@@ -9,7 +9,7 @@ https://github.com/barisA1/Wordle-Game/assets/69991160/c33c9205-ecbb-47de-b16e-e
 - **[Nasıl Oynanır?](#-nasıl-oynanır)**
 - **[Kurulum](#️-kurulum)**
 - **[Ek Bilgiler](#-ek-bilgiler)**
-- **[🤝 Katılım](#-katılım)**
+- **[Katılım](#-katılım)**
 
 ## 🎯 Nasıl Oynanır?
 
