@@ -9,6 +9,7 @@ https://github.com/barisA1/Wordle-Game/assets/69991160/c33c9205-ecbb-47de-b16e-e
 - **[Nasıl Oynanır?](#-nasıl-oynanır)**
 - **[Kurulum](#️-kurulum)**
 - **[Ek Bilgiler](#-ek-bilgiler)**
+- **[🤝 Katılım](#-katılım)**
 
 ## 🎯 Nasıl Oynanır?
 
@@ -57,3 +58,9 @@ https://github.com/barisA1/Wordle-Game/assets/69991160/c33c9205-ecbb-47de-b16e-e
 
 - Oyunun geliştirilmesi sırasında `kelimeler.txt` dosyası üzerinde değişiklik yaparak oyunun kullanacağı kelime listesini özelleştirebilirsiniz.
 - Oyun içindeki tuş takımıyla (klavye veya fareyle) kelime tahminlerinizi yapabilirsiniz.
+
+## 🤝 Katılım
+
+- Bu depoyu çatallayın (fork) ve geliştirmelerinizi yapın.
+- Yeni özellikler eklemek veya hataları düzeltmek için Pull Talepler (Pull Requests) gönderin.
+- Hataları bildirmek veya önerilerde bulunmak için konu (issue) açın.
